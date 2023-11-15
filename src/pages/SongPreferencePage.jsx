@@ -15,7 +15,7 @@ import rockImage from "../UI Images/Icons/Rock.png";
 import popImage from "../UI Images/Icons/Pop.png";
 import desiImage from "../UI Images/Icons/Desi.png";
 import edmImage from "../UI Images/Icons/EDM.png";
-import maleImage from "../UI Images/Icons/MALE.png";
+import maleImage from "../UI Images/Icons/Male.png";
 import femaleImage from "../UI Images/Icons/Female.png";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
