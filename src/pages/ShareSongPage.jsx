@@ -2,7 +2,7 @@ import { Button, Flex, Image, Text } from "@chakra-ui/react";
 import progressBarImage from "../UI Images/progress bar5.png";
 import confettiImage from "../UI Images/Asset 1.png";
 import musicNoteImage from "../UI Images/Yellow tone.png";
-import purpleMusicNoteImage from "../UI Images/Purple Music tone.png";
+import purpleMusicNoteImage from "../UI Images/Purple Music Tone.png";
 import yellowballoonImage from "../UI Images/Balloon.png";
 import balloonImage from "../UI Images/Balloon2.png";
 import { colors } from "../utils/colors";

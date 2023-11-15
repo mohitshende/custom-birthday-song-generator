@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import confettiImage from "../UI Images/Asset 1.png";
 import musicNoteImage from "../UI Images/Purple tone.png";
 import yellowMusicNoteImage from "../UI Images/Yellow tone.png";
-import purpleMusicNoteImage from "../UI Images/Purple Music tone.png";
+import purpleMusicNoteImage from "../UI Images/Purple Music Tone.png";
 import guitarImage from "../UI Images/Guitar 12th screen.png";
 import desiImage from "../UI Images/Desi_.png";
 

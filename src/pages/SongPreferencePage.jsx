@@ -3,7 +3,7 @@ import { colors } from "../utils/colors";
 import progressBarImage from "../UI Images/progress bar2.png";
 import headphoneImage from "../UI Images/Headphone.png";
 import confettiImage from "../UI Images/Asset 1.png";
-import musicNoteImage from "../UI Images/Purple Music tone.png";
+import musicNoteImage from "../UI Images/Purple Music Tone.png";
 import balloonImage from "../UI Images/Balloon2.png";
 import happyImage from "../UI Images/Icons/Happy.png";
 import romanticImage from "../UI Images/Icons/Romantic.png";
