@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "DairyMilkFont";
+  src: local("DairyMilkFont-Medium"),
+    url("./Fonts/DairyMilkFont-Medium.otf") format("otf");
+}
+
+@font-face {
+  font-family: "Gibson";
+  src: local("Gibson"), url("./Fonts/Gibson/Gibson.ttf") format("truetype"),
+    url("./Fonts/Gibson/Gibson-Bold.ttf") format("truetype"),
+    url("./Fonts/Gibson/Gibson-Italic.ttf") format("truetype"),
+    url("./Fonts/Gibson/Gibson-Light.ttf") format("truetype"),
+    url("./Fonts/Gibson/Gibson-Regular.ttf") format("truetype"),
+    url("./Fonts/Gibson/Gibson-SemiBold.ttf") format("truetype");
+}
