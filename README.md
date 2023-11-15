@@ -1,8 +1,23 @@
-# React + Vite
+# Installation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To install the dependencies and run the app, please run following commands in the root of the project.
 
-Currently, two official plugins are available:
+To install the dependencies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+yarn
+```
+
+To run the project in local.
+
+```
+yarn dev
+```
+
+# Setup
+
+create a new env file in the root of the project and add your openAI API key
+
+```
+VITE_CHAT_GPT_API_KEY=<YOUR_API_KEY>
+```
